@@ -1,4 +1,4 @@
-# Scrolling-LEDS
+# Control light intensity using LDR
 TL:DR - How to control LEDS with LDR sensor.
 
 How to control LEDS using LDR Sensor
